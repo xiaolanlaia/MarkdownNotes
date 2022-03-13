@@ -39,7 +39,7 @@
 
 <br/>
 
-将 ** 数值数据(V)** 的值改为自己软件安装盘符的路径（通常为D盘），点击确定
+将 **数值数据(V)** 的值改为自己软件安装盘符的路径（通常为D盘），点击确定
 
 ![Regedit Edit](https://github.com/xiaolanlaia/MarkdownNotes/blob/main/ChangeInstallLocaltion/img/regedit_path_change.png)
 
