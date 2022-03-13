@@ -3,13 +3,13 @@
 电脑中有些软件不会提供安装路径选择，直接安装在了C盘，占用大量C盘空间，  
 通过修改注册表中安装路径的方式可以改变这些软件安装路径
 
-#### 第一步 Win + R键打开运行对话框，输入regedit
+### 第一步 Win + R键打开运行对话框，输入regedit
 
 ![Regedit](https://github.com/xiaolanlaia/MarkdownNotes/blob/main/ChangeInstallLocaltion/img/regedit.png)
 
 <br/>
 
-#### 第二步 打开下面路径
+### 第二步 打开下面路径
 
 计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-#### 第三步 修改注册表
+### 第三步 修改注册表
 
 ![Regedit Edit](https://github.com/xiaolanlaia/MarkdownNotes/blob/main/ChangeInstallLocaltion/img/regedit_revise.png)
 
@@ -47,7 +47,7 @@
 
 三个路径都修改完成后就可以进行软件安装，我是安装了Chrome和office这两个默认会安装到C盘的软件
 
-#### 第四步 安装软件
+### 第四步 安装软件
 
 安装软件
 
@@ -55,9 +55,9 @@
 
 <br/>
 
-可以看到，软件安装在了C盘
+可以看到，软件成功安装在了D盘
 
-#### 第五步 恢复注册表
+### 第五步 恢复注册表
 
 如果不是很懂电脑的大佬，建议还是不要随意修改电脑的系统配置，所以安装完软件后还是建议将注册表恢复。
 恢复的方法可以在刚才修改注册表的界面再次修改，也可以双击刚才修改之前备份的注册表自动修改
@@ -65,7 +65,7 @@
 注册表恢复后，建议重启一下电脑，然后打开软件查看是否可以使用
 
 
-#### **一些注意的点**
+### **一些注意的点**
 
 <br/>
 
