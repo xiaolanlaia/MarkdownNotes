@@ -80,7 +80,7 @@
 
 右键软件快捷方式进入属性，将 **属性 - 快捷方式** 中的 **目标(T)** 根路径从C盘改为安装的盘符
 
-![Regedit Edit](https://github.com/xiaolanlaia/MarkdownNotes/blob/main/ChangeInstallLocaltion/img/software_d.jpg)
+![Regedit Edit](https://github.com/xiaolanlaia/MarkdownNotes/blob/main/ChangeInstallLocaltion/img/Inkedrevise_open_err.jpg)
 
 <br/>
 
